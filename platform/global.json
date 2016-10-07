@@ -1,0 +1,9 @@
+{
+  "projects": [
+    "DA/Database/src"
+  ],
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  },
+  "packages": "packages"
+}
